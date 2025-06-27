@@ -42,9 +42,9 @@ Technologies used: **Python**, **Pandas**, **Matplotlib**, **Excel**, and **Powe
 ## 📂 Project Structure
 ```bash
 Indian-Startup-Failure-Analysis/
-├── ISPA.ipynb # Python EDA notebook
-├── ISPA.pbix # Power BI dashboard
-├── ISPA.pdf # Exported dashboard as PDF
+├── ISFA.ipynb # Python EDA notebook
+├── ISFA.pbix # Power BI dashboard
+├── ISFA_Overview.pdf # Exported dashboard as PDF
 ├── Startup Failures.xlsx # Original dataset
 └── README.md # Project documentation
 ```

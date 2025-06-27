@@ -64,7 +64,7 @@ pip install pandas matplotlib seaborn
 ```
 3. **Run the Notebook**
 ```bash
-jupyter notebook ISPA.ipynb
+jupyter notebook ISFA.ipynb
 ```
 4. **Open the Dashboard**
 - Use Power BI Desktop to open ISPA.pbix
